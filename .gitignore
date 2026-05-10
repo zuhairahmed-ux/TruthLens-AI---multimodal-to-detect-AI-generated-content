@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+models/ai_vs_human_cnn.h5
